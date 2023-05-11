@@ -15,10 +15,10 @@ First iteration of my portfolio website
 
 TODOS:
 
-- [] Redesign colour scheme
-- [] Add skills portion
-- [] Add work experiences portion
-- [] Design brand logo
+- [ ] Redesign colour scheme
+- [x] Add skills portion
+- [x] Add work experiences portion
+- [x] Design brand logo
 
 ## Credits
 
