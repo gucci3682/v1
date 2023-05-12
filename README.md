@@ -15,7 +15,7 @@ First iteration of my portfolio website
 
 TODOS:
 
-- [ ] Redesign colour scheme
+- [X] Redesign colour scheme
 - [x] Add skills portion
 - [x] Add work experiences portion
 - [x] Design brand logo
