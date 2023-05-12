@@ -101,7 +101,6 @@ const Skills = ({ frameworks, languages }: SkillsProps) => {
       duration: 1,
       delay: 0.3,
     });
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const ref = useD3(

@@ -10,6 +10,7 @@ module.exports = {
      * @see https://github.com/prettier/eslint-config-prettier#installation
      */
     "prettier",
+    "plugin:@next/next/recommended",
   ],
   rules: {
     "turbo/no-undeclared-env-vars": "off",
