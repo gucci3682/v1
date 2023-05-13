@@ -92,7 +92,7 @@ const Menu = ({ isOpen, linkHandler }: MenuProps) => {
           </li>
           <li className="flex justify-start">
             <a
-              href="/Brendan_Cheong_Resume.pdf"
+              href="/Ng Gerald Resume.pdf"
               rel="noopener noreferrer"
               target="_blank"
               className="rounded-sm px-4 py-2 font-mono text-sm text-primary-light shadow-md ring-1 ring-primary-light transition ease-in hover:bg-primary-light hover:bg-opacity-20"
