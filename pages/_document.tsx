@@ -9,10 +9,7 @@ class MyDocument extends Document {
             name="description"
             content="Ng Gerald is a full-stack developer who specializes in making user-friendly applications for the world."
           />
-          <meta
-            name="image"
-            content={`https://brendancej.tech/rich-preview.png`}
-          />
+          <meta name="image" content="/preview.png" />
           <meta
             name="google-site-verification"
             content="1oxF7G6_fEXhGoqV-vMT975YbJVIS6tnbpTr-uR2cCo"
@@ -22,21 +19,15 @@ class MyDocument extends Document {
             property="og:description"
             content="Ng Gerald is a full-stack developer who specializes in making user-friendly applications for the world."
           />
-          <meta
-            property="og:image"
-            content={`https://brendancej.tech/rich-preview.png`}
-          />
+          <meta property="og:image" content="/preview.png" />
           <meta property="og:type" content="website" data-react-helmet="true" />
-          <meta property="og:url" content="https://brendancej.tech" />
+          <meta property="og:url" content="https://v1-gucci3682.vercel.app/" />
           <meta name="twitter:title" content="Ng Gerald" />
           <meta
             name="twitter:description"
             content="Ng Gerald is a full-stack developer who specializes in making user-friendly applications for the world."
           />
-          <meta
-            name="twitter:image"
-            content={`https://brendancej.tech/rich-preview.png`}
-          />
+          <meta name="twitter:image" content="/preview.png" />
 
           <link
             rel="apple-touch-icon"
