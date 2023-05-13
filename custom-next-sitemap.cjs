@@ -1,4 +1,4 @@
 module.exports = {
-	siteUrl: `https://brendancej.tech`,
-	generateRobotsTxt: true,
+  siteUrl: `https://v1-gucci3682.vercel.app/`,
+  generateRobotsTxt: true,
 };

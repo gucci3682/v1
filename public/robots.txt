@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://brendancej.tech
+Host: https://v1-gucci3682.vercel.app/
 
 # Sitemaps
-Sitemap: https://brendancej.tech/sitemap.xml
+Sitemap: https://v1-gucci3682.vercel.app/sitemap.xml
