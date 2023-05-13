@@ -12,6 +12,7 @@ First iteration of my portfolio website
 - GSAP (Greensock)
 - Vercel
 - D3
+- Figma (design/edit icons)
 
 TODOS:
 
@@ -19,6 +20,9 @@ TODOS:
 - [x] Add skills portion
 - [x] Add work experiences portion
 - [x] Design brand logo
+- [ ] Add letter of recommendations hyperlink to work experiences
+
+Nice-to-haves:
 - [ ] Changing domain to a customised one (finding f2p methods)
 
 ## Credits
