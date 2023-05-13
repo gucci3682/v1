@@ -19,6 +19,7 @@ TODOS:
 - [x] Add skills portion
 - [x] Add work experiences portion
 - [x] Design brand logo
+- [ ] Changing domain to a customised one (finding f2p methods)
 
 ## Credits
 
