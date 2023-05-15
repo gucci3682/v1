@@ -16,13 +16,14 @@ First iteration of my portfolio website
 
 TODOS:
 
-- [X] Redesign colour scheme
+- [x] Redesign colour scheme
 - [x] Add skills portion
 - [x] Add work experiences portion
 - [x] Design brand logo
-- [ ] Add letter of recommendations hyperlink to work experiences
+- [x] Add letter of recommendations hyperlink to work experiences
 
 Nice-to-haves:
+
 - [ ] Changing domain to a customised one (finding f2p methods)
 
 ## Credits
