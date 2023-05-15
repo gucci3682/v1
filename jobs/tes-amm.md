@@ -3,6 +3,7 @@ title: "Data Summer Analyst"
 role: "Internship"
 company: "TES-AMM (Singapore) Pte Ltd"
 range: "May 2022 - Oct 2022"
+recommendation: false
 url: "https://www.tes-amm.com/"
 techstack: ["Python", "SQL", "AWS", "Microsoft PowerBI"]
 index: 2

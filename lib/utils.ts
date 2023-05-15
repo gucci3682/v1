@@ -43,6 +43,9 @@ export const getMarkdownBySlug = (
     if (field === "slug") {
       items[field] = realSlug;
     }
+    if (field === "recommendation") {
+      items[field] = data[field];
+    }
     if (field === "content" && content) {
       const bulletPoints = content
         .split("\n")
