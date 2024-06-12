@@ -7,6 +7,7 @@ svg: "<svg
       x='0px'
       y='0px'
       viewBox='0 0 512 512'
+      class='text-white-dark hover:text-primary-light fill-current transition-[opacity_.5s,color_.5s]'
     >
       <g>
         <title>ansible</title>
