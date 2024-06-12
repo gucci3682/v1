@@ -46,8 +46,7 @@ const About = () => {
         <div className="grid-col-1 grid grid-rows-1 gap-8 lg:grid-cols-2">
           <div className="space-y-8">
             <p className="mb-3 text-sm leading-6 text-white-dark sm:text-base sm:leading-7">
-              Hello! I&lsquo;m Gerald and I like to code. I&lsquo;m a graduate
-              at{" "}
+              Hello! I&lsquo;m Gerald and I like to code. I graduated from{" "}
               <a
                 href="https://www.nus.edu.sg/"
                 rel="noopener noreferrer"
@@ -69,11 +68,11 @@ const About = () => {
             </p>
             <p className="mb-3 text-sm leading-6 text-white-dark sm:text-base sm:leading-7">
               I am a self-driven, independent learner who decided that
-              programming was more fun than data analytics. Coming from NUS
-              School of Computing, I learnt multiple programming languages with
-              a few technical internship experiences under my belt. Currently, I
-              am working on personal projects to further develop my programming
-              skills.
+              programming was more fun than data science. Coming from NUS School
+              of Computing, I have a strong technical foundation with a few
+              professional technical experiences under my belt in various
+              disciplines. Currently, I am doing DevOps to further expand my
+              skillsets.
             </p>
             <p className="mb-3 text-sm leading-6 text-white-dark sm:text-base sm:leading-7">
               Here are a few technologies I&lsquo;ve been working with recently:

@@ -58,7 +58,7 @@ const HeroSection = () => {
             >
               NUS
             </a>{" "}
-            who aspires to be a software engineer.
+            who does software engineering.
           </p>
 
           <a

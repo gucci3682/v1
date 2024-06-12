@@ -7,7 +7,7 @@ class MyDocument extends Document {
           <meta name="author" content="Ng Gerald" />
           <meta
             name="description"
-            content="Ng Gerald is an aspiring software engineer."
+            content="Ng Gerald is a software engineer."
           />
           <meta name="image" content="/preview.png" />
           <meta
@@ -17,7 +17,7 @@ class MyDocument extends Document {
           <meta property="og:title" content="Ng Gerald Portfolio" />
           <meta
             property="og:description"
-            content="Ng Gerald is an aspiring software engineer."
+            content="Ng Gerald is a software engineer."
           />
           <meta property="og:image" content="/preview.png" />
           <meta property="og:type" content="website" data-react-helmet="true" />
@@ -25,7 +25,7 @@ class MyDocument extends Document {
           <meta name="twitter:title" content="Ng Gerald" />
           <meta
             name="twitter:description"
-            content="Ng Gerald is an aspiring software engineer."
+            content="Ng Gerald is a software engineer."
           />
           <meta name="twitter:image" content="/preview.png" />
 
