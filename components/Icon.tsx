@@ -16,6 +16,9 @@ import {
   IconMongoDB,
   IconClickHouse,
   IconPowerBI,
+  IconYAML,
+  IconPowerShell,
+  IconAnsible,
 } from "./Icons";
 
 export default function Icon({ name }: { name: string }) {
@@ -52,6 +55,12 @@ export default function Icon({ name }: { name: string }) {
       return <IconClickHouse />;
     case "Microsoft PowerBI":
       return <IconPowerBI />;
+    case "YAML":
+      return <IconYAML />;
+    case "PowerShell":
+      return <IconPowerShell />;
+    case "Ansible":
+      return <IconAnsible />;
     default:
       return <IconBase />;
   }

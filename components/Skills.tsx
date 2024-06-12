@@ -197,8 +197,7 @@ const Skills = ({ frameworks, languages }: SkillsProps) => {
             </div>
 
             <p className="text-md inline-block font-poppins text-white-default">
-              Here are some Frameworks and Languages I&apos;ve worked with
-              recently:
+              Here are some Frameworks and Languages I&apos;ve worked with:
             </p>
           </div>
           <div className="hidden lg:block">
