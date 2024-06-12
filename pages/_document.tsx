@@ -21,7 +21,7 @@ class MyDocument extends Document {
           />
           <meta property="og:image" content="/preview.png" />
           <meta property="og:type" content="website" data-react-helmet="true" />
-          <meta property="og:url" content="https://v1-gucci3682.vercel.app/" />
+          <meta property="og:url" content="https://nggerald.vercel.app/" />
           <meta name="twitter:title" content="Ng Gerald" />
           <meta
             name="twitter:description"
