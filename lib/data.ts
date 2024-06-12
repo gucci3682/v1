@@ -1,9 +1,9 @@
 export const techStack = [
-  "JavaScript (ES6+)",
+  "YAML",
+  "PowerShell",
   "TypeScript",
+  "Ansible",
   "Node.js",
-  "React.js",
-  "Next.js",
   "SQL",
 ];
 
