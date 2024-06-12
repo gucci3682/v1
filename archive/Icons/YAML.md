@@ -7,8 +7,8 @@ svg: "<svg
   image-rendering='optimizeQuality'
   fill-rule='evenodd'
   clip-rule='evenodd'
-  width='50'
-  height='50'
+  width='52'
+  height='52'
   viewBox='0 0 512 507.64'
   class='text-white-dark hover:text-primary-light fill-current transition-[opacity_.5s,color_.5s]'
   >
