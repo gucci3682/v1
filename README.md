@@ -24,8 +24,8 @@ TODOS:
 
 Nice-to-haves:
 
-- [ ] Changing domain to a customised one (finding f2p methods)
-- [ ] Migrate to Next13(?)
+- [x] Changing domain to a personalised one
+- [ ] Migrate to Next13(?) (Depreciated at the moment due to lack of bandwidth)
 
 ## Credits
 
