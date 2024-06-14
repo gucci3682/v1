@@ -44,7 +44,7 @@ export const getStaticProps = () => {
   };
 };
 
-const Home = ({ /**allProjects,*/ allJobs, allIcons }) => {
+const Home = ({ allProjects, allJobs, allIcons }) => {
   const featuredProjects = allProjects.filter(
     (post) => post.isFeatured === true
   );
