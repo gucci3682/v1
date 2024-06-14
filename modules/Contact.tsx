@@ -46,10 +46,10 @@ const Contact = () => {
           Lets Get In Touch!
         </Heading>
         <p className="mx-auto mb-1 max-w-lg text-center text-sm text-white-dark md:text-base">
-          Currently looking for full-time Software Engineering opportunities
-          &#40;open to internships as well&#41;. If you think I make a great
-          addition to your team or if you&apos;d like to chat, feel free to
-          contact me! I&apos;ll be sure to get back to you as soon as I can.
+          Currently looking for full-time Software Engineering opportunities. If
+          you think I make a great addition to your team or if you&apos;d like
+          to chat, feel free to contact me! I&apos;ll be sure to get back to you
+          as soon as I can.
         </p>
         <a
           href="mailto:ng.gerald.1998@gmail.com"
