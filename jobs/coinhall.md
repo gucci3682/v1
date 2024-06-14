@@ -9,6 +9,6 @@ techstack: ["Typescript", "SQL", "MongoDB", "NodeJS", "ClickHouse"]
 index: 1
 ---
 
-- Developed new backend APIs, supporting the redesign of Coinhall’s web application which is used by more than 3000 weekly active users, while ensuring zero downtime.
+- Developed new backend APIs, supporting the redesign of Coinhall’s web application which is used by more than 150,000 monthly active users, while ensuring zero downtime.
 - Optimised existing queries when migrating the database used by Coinhall’s web application, significantly reducing query execution duration.
-- Collaborated actively with a team of 11 developers using the AGILE framework, providing code reviews and enhancements.
+- Collaborated actively with a team of developers in an AGILE environment, providing code reviews and enhancements.
