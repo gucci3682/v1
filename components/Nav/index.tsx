@@ -122,7 +122,7 @@ const Nav = (): JSX.Element => {
                 2. Work
               </ScrollLink>
             </li>
-            {/* <li className="hidden md:block">
+            <li className="hidden md:block">
               <ScrollLink
                 className="cursor-pointer truncate font-mono transition ease-in hover:text-primary-light"
                 to="projects"
@@ -133,7 +133,7 @@ const Nav = (): JSX.Element => {
               >
                 3. Projects
               </ScrollLink>
-            </li> */}
+            </li>
             <li className="hidden md:block">
               <ScrollLink
                 className="cursor-pointer truncate font-mono transition ease-in hover:text-primary-light"
@@ -143,7 +143,7 @@ const Nav = (): JSX.Element => {
                 offset={-100}
                 isDynamic
               >
-                3. Contact
+                4. Contact
               </ScrollLink>
             </li>
             <li className="hidden md:block">
