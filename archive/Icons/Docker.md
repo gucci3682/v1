@@ -4,10 +4,12 @@ svg: "<svg
   xmlns='http://www.w3.org/2000/svg'
   aria-label='Docker'
   role='img'
-  viewBox='0 0 450 450'
+  viewBox='0 0 512 512'
+  width='58px'
+	height='58px'
   class='text-white-dark hover:text-primary-light fill-current transition-[opacity_.5s,color_.5s]'
   >
-  <rect width='450' height='450' rx='15%' />
+  <rect width='512' height='512' rx='15%' />
   <path
   stroke='#09092A'
   stroke-width='38'
