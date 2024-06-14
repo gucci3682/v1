@@ -1,8 +1,8 @@
 export const techStack = [
   "YAML",
-  "PowerShell",
-  "TypeScript",
   "Ansible",
+  "Docker",
+  "TypeScript",
   "Node.js",
   "SQL",
 ];
