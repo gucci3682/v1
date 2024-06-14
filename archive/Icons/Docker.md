@@ -4,7 +4,7 @@ svg: "<svg
   xmlns='http://www.w3.org/2000/svg'
   aria-label='Docker'
   role='img'
-  viewBox='0 0 512 512'
+  viewBox='0 0 450 450'
   class='text-white-dark hover:text-primary-light fill-current transition-[opacity_.5s,color_.5s]'
   >
   <rect width='450' height='450' rx='15%' />
