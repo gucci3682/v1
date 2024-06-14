@@ -6,7 +6,7 @@ range: "Aug 2023 - Present"
 recommendation: false
 url: "https://www.nttdata.com/sg/en"
 techstack:
-  ["Ansible", "YAML", "Docker", "PowerShell", Typescript", "SQL", "NodeJS"]
+  ["Ansible", "YAML", "Docker", "PowerShell", TypeScript", "SQL", "NodeJS"]
 index: 1
 ---
 
