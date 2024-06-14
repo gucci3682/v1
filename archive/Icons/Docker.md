@@ -5,8 +5,8 @@ svg: "<svg
   aria-label='Docker'
   role='img'
   viewBox='0 0 512 512'
-  width='58px'
-	height='58px'
+  width='55px'
+	height='55px'
   class='text-white-dark hover:text-primary-light fill-current transition-[opacity_.5s,color_.5s]'
   >
   <rect width='512' height='512' rx='15%' />
