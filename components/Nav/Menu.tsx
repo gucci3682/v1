@@ -64,7 +64,7 @@ const Menu = ({ isOpen, linkHandler }: MenuProps) => {
               Work
             </ScrollLink>
           </li>
-          {/* <li className="flex justify-start">
+          <li className="flex justify-start">
             <ScrollLink
               className="cursor-pointer font-mono text-primary-light transition ease-in hover:underline"
               to="projects"
@@ -76,7 +76,7 @@ const Menu = ({ isOpen, linkHandler }: MenuProps) => {
             >
               Projects
             </ScrollLink>
-          </li> */}
+          </li>
           <li className="flex justify-start">
             <ScrollLink
               className="cursor-pointer font-mono text-primary-light transition ease-in hover:underline"
