@@ -6,7 +6,7 @@ range: "May 2022 - Oct 2022"
 recommendation: false
 url: "https://www.tes-amm.com/"
 techstack: ["Python", "SQL", "AWS", "Microsoft PowerBI"]
-index: 2
+index: 3
 ---
 
 - Enhanced centralised Group Financial Storyboards which is used by the CFO to analyse and report the group’s financial standing, business profitability, operations and client relations.
