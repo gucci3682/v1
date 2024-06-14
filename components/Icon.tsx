@@ -19,6 +19,7 @@ import {
   IconYAML,
   IconPowerShell,
   IconAnsible,
+  IconDocker,
 } from "./Icons";
 
 export default function Icon({ name }: { name: string }) {
@@ -61,6 +62,8 @@ export default function Icon({ name }: { name: string }) {
       return <IconPowerShell />;
     case "Ansible":
       return <IconAnsible />;
+    case "Docker":
+      return <IconDocker />;
     default:
       return <IconBase />;
   }

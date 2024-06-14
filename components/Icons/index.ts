@@ -17,3 +17,4 @@ export * from "./IconPowerBI";
 export * from "./IconYAML";
 export * from "./IconPowerShell";
 export * from "./IconAnsible";
+export * from "./IconDocker";
