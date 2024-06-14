@@ -9,6 +9,7 @@ export const IconAnsible = () => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
+      className="fill-current text-white-dark transition-[opacity_.5s,color_.5s] hover:text-primary-light"
     >
       <g>
         <title>ansible</title>
