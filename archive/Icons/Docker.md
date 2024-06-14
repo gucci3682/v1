@@ -7,7 +7,7 @@ svg: "<svg
   viewBox='0 0 512 512'
   class='text-white-dark hover:text-primary-light fill-current transition-[opacity_.5s,color_.5s]'
   >
-  <rect width='512' height='512' rx='15%' />
+  <rect width='450' height='450' rx='15%' />
   <path
   stroke='#09092A'
   stroke-width='38'
